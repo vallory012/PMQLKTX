@@ -1,0 +1,92 @@
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\bin\Debug\KTXSV.exe.config
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\bin\Debug\KTXSV.exe
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\bin\Debug\KTXSV.pdb
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\bin\Debug\MaterialSkin.dll
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.frmLogin.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.frmMain.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.Properties.Resources.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlDATA.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlDN.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlDSP.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlGia.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlKhoa.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlMain.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlND.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlPhong.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlQT.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlSV.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTK.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTT.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTTOAN.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.csproj.GenerateResource.Cache
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.exe
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.pdb
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTKSV.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlLP.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTTP.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTP.resources
+C:\Users\Cung\documents\visual studio 2015\Projects\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlGT.resources
+D:\HT\BackUp\KTXSV\KTXSV\bin\Debug\KTXSV.exe.config
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.exe
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.pdb
+D:\HT\BackUp\KTXSV\KTXSV\bin\Debug\KTXSV.exe
+D:\HT\BackUp\KTXSV\KTXSV\bin\Debug\KTXSV.pdb
+D:\HT\BackUp\KTXSV\KTXSV\bin\Debug\MaterialSkin.dll
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.frmLogin.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.frmMain.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.Properties.Resources.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlDATA.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlDN.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlDSP.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlGia.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlGT.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlKhoa.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlLP.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlMain.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlND.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlPhong.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlQT.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlSV.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTK.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTKSV.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTP.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTT.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTTOAN.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTTP.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.Wellcome.resources
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.csproj.GenerateResource.Cache
+D:\HT\BackUp\KTXSV\KTXSV\obj\Debug\KTXSV.csprojResolveAssemblyReference.cache
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\bin\Debug\KTXSV.exe.config
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\bin\Debug\KTXSV.exe
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\bin\Debug\KTXSV.pdb
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\bin\Debug\MaterialSkin.dll
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.csproj.AssemblyReference.cache
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.csproj.ResolveComReference.cache
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.frmLogin.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.frmMain.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.Properties.Resources.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlDATA.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlDN.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlDSP.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlGia.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlGT.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlKhoa.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlLP.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlMain.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlND.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlPhong.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlQT.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlSV.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTK.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTKSV.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTP.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTT.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTTOAN.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.UserControlTTP.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.Wellcome.resources
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.csproj.GenerateResource.cache
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.csproj.CoreCompileInputs.cache
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.csproj.CopyComplete
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.exe
+C:\Users\phanb\Downloads\Thư mục mới\QLKTX_CungK8\KTXSV\KTXSV\obj\Debug\KTXSV.pdb
